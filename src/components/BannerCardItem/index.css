@@ -18,4 +18,27 @@
   background-size: cover;
 }
 
-/* Write your code here. */
+.card {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 6px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cbced2;
+}
+
+.main-heading {
+  color: #326a9d;
+}
+
+.button {
+  padding: 10px;
+  color: #326a9d;
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #326a9d;
+  border-radius: 6px;
+  border-width: 3px;
+}
